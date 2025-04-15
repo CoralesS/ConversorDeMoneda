@@ -7,5 +7,7 @@ public class Main {
         Double  entero = (int) numero*3.4;
 
         System.out.println(entero);
+
+        System.out.println("FUncionó correctamente");
     }
 }
